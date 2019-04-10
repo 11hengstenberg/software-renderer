@@ -87,6 +87,8 @@ def glColor(r,g,b):
 	nB= int(b*255)
 	tImagen.vertex_color = color(nR, nG, nB)
 	return color(nR,nG,nB)
+
+
 	#colocar el punto
 def glVertex(x,y):
 	global tImagen
@@ -134,6 +136,9 @@ def glLine (x1, y1, x2, y2):
 			if offset >= threshold:
 				y +=1 if y1 < y2 else -1
 				threshold += 2 * dx
+
+
+
 
 
 def glPolygonFull(vertexList):
