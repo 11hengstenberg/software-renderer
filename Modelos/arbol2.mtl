@@ -1,0 +1,68 @@
+# Blender MTL File: 'tree.blend'
+# Material Count: 6
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.189595 0.025569 0.004168
+Ks 0.500000 0.500000 0.500000
+Ke 0.123237 0.016620 0.002709
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\F89E6~1.HEN\AppData\Local\Temp\Rar$DIa0.092\hard-wood-floor-texture-solid-hardwood-flooring-berry-stained-color-light-hardwood-floor-texture-hardwood-floor-texture-cinema-4d.jpg
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.143022 0.014176 0.005533
+Ks 0.500000 0.500000 0.500000
+Ke 0.146598 0.014530 0.005671
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\F89E6~1.HEN\AppData\Local\Temp\Rar$DIa0.092\hard-wood-floor-texture-solid-hardwood-flooring-berry-stained-color-light-hardwood-floor-texture-hardwood-floor-texture-cinema-4d.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.198109 0.039965 0.019156
+Ks 0.500000 0.500000 0.500000
+Ke 0.173345 0.034969 0.016762
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\F89E6~1.HEN\AppData\Local\Temp\Rar$DIa0.092\hard-wood-floor-texture-solid-hardwood-flooring-berry-stained-color-light-hardwood-floor-texture-hardwood-floor-texture-cinema-4d.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.027153 0.640000 0.010167
+Ks 0.500000 0.500000 0.500000
+Ke 0.010182 0.240000 0.003813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\F89E6~1.HEN\AppData\Local\Temp\Rar$DIa0.092\BNSS0100_22_0354_0001.jpg
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.019302 0.129231 0.001205
+Ks 0.500000 0.500000 0.500000
+Ke 0.005308 0.035538 0.000331
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\F89E6~1.HEN\AppData\Local\Temp\Rar$DIa0.092\BNSS0100_22_0354_0001.jpg
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.165819 0.640000 0.080524
+Ks 0.500000 0.500000 0.500000
+Ke 0.089128 0.344000 0.043282
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\F89E6~1.HEN\AppData\Local\Temp\Rar$DIa0.092\BNSS0100_22_0354_0001.jpg

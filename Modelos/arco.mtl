@@ -1,23 +1,24 @@
-# Blender MTL File: 'toad.blend'
+# Blender MTL File: 'arc de triomphe.blend'
 # Material Count: 2
 
-newmtl Material
+newmtl cc
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.470548 0.281764
+Kd 0.268038 0.640000 0.119984
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl Material.001
+newmtl pierre_
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.705302 0.696686
+Kd 0.243983 0.175265 0.102773
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd UVG\Semestre 5\Graficas por Computadora\toadBlender\toad.png
+map_Bump C:\\Users\\F89E6~1.HEN\\AppData\\Local\\Temp\\Quentin\\texture.jpg
+map_Kd C:\\Users\\F89E6~1.HEN\\AppData\\Local\\Temp\\Quentin\\texture.jpg
